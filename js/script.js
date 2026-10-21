@@ -1,6 +1,6 @@
-// const colorBox = document.getElementById('colorBox');
-// const colorCode = document.getElementById('colorCode');
-// const generateBtn = document.getElementById('generateBtn');
+const colorBox = document.getElementById('colorBox');
+const colorCode = document.getElementById('colorCode');
+const generateBtn = document.getElementById('generateBtn');
 
 // function getRandomColor() {
 //     const characters = '0123456789ABCDEF';
