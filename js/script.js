@@ -12,8 +12,8 @@ function getRandomColor() {
     return color;
 }
 
-// generateBtn.addEventListener('click', () => {
-//     const randomColor = getRandomColor();
-//     colorBox.style.backgroundColor = randomColor;
-//     colorCode.textContent = randomColor;
-// });
+generateBtn.addEventListener('click', () => {
+    const randomColor = getRandomColor();
+    colorBox.style.backgroundColor = randomColor;
+    colorCode.textContent = randomColor;
+});
